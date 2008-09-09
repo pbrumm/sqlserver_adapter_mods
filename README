@@ -7,6 +7,6 @@ Specificly:
 
 - Fixes schema dumper not dumping primary key when other than 'id'
 - Allows dot notation for table name in create_table to indicate ownership (doesn't dump properly though)
-- Removes custom adapter type casting for dates and times which is not longer needed and breaks on Windows
+- Removes custom adapter type casting for dates and times which is no longer needed and breaks on Windows
 
 Copyright (c) 2008 Adam Meehan, released under the MIT license
