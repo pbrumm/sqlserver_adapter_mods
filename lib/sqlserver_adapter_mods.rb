@@ -1,0 +1,2 @@
+require 'sqlserver_adapter_mods/sqlserver_adapter'
+require 'sqlserver_adapter_mods/sqlserver_column'
